@@ -1,0 +1,6 @@
+{
+    "name": "jasonlav/composer-101",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
